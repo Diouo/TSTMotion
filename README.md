@@ -88,10 +88,13 @@ Some codes are borrowed from [MDM](https://github.com/GuyTevet/motion-diffusion-
 ## Citation
 If you find TSTMotion useful for your work please cite:
 ```
-@article{       ,
-  author    = {},
-  title     = {TSTMotion: Training-free Scene-aware Text-to-motion Generation},
-  journal   = {},
-  year      = {2024},
+@misc{guo2025tstmotiontrainingfreesceneawaretexttomotion,
+      title={TSTMotion: Training-free Scene-aware Text-to-motion Generation}, 
+      author={Ziyan Guo and Haoxuan Qu and Hossein Rahmani and Dewen Soh and Ping Hu and Qiuhong Ke and Jun Liu},
+      year={2025},
+      eprint={2505.01182},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.01182}, 
 }
 ```
