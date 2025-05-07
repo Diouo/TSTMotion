@@ -4,7 +4,6 @@
     <a href='https://arxiv.org/abs/2505.01182'>
       <img src='https://img.shields.io/badge/Paper-arXiv-green?style=plastic&logo=arXiv&logoColor=green' alt='Paper arXiv'>
     </a>
-    
     <a href='https://TSTMotion.github.io/TSTMotion.github.io/'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
