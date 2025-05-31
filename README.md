@@ -6,9 +6,6 @@
 </p>
 
 
-This repository is an official implementation of [TSTMotion](https://TSTMotion.github.io/TSTMotion.github.io/) <b>BASELINE</b>. The <b>COMPLETE CODE</b> is being cleaned and will be released soon.
-
-
 ## Folder Structure
 ```
 ├── datasets
