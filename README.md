@@ -1,4 +1,4 @@
-# [ICME2025] TSTMotion: Training-free Scene-aware Text-to-motion Generation
+# [ICME2025 Oral] TSTMotion: Training-free Scene-aware Text-to-motion Generation
 
 <p align="left">
     <a href='https://arxiv.org/abs/2505.01182'><img src='https://img.shields.io/badge/arxiv-arxiv-red' alt='youtube video'></a>
